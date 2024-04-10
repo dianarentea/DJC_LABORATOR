@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|d:\\facultate anul 3\\sem2\\djc\\laborator1\\assets\\scripts\\checkersboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkersboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|d:\\facultate anul 3\\sem2\\djc\\laborator1\\assets\\shaders\\blinnphong.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\blinnphong.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|d:\\facultate anul 3\\sem2\\djc\\laborator1\\assets\\shaders\\procedural.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\procedural.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|d:\\facultate anul 3\\sem2\\djc\\laborator1\\assets\\scripts\\flymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\assets\\scripts\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D002AC3-3778-B8C4-244A-8FBAAF65AAAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 135,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckersBoard.cs",
+              "DocumentMoniker": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Scripts\\CheckersBoard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckersBoard.cs",
+              "ToolTip": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Scripts\\CheckersBoard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckersBoard.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:16:17.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlinnPhong.shader",
+              "DocumentMoniker": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Shaders\\BlinnPhong.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\BlinnPhong.shader",
+              "ToolTip": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Shaders\\BlinnPhong.shader",
+              "RelativeToolTip": "Assets\\Shaders\\BlinnPhong.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-03-28T14:58:52.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Procedural.shader",
+              "DocumentMoniker": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Shaders\\Procedural.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\Procedural.shader",
+              "ToolTip": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Shaders\\Procedural.shader",
+              "RelativeToolTip": "Assets\\Shaders\\Procedural.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-03-28T14:40:11.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fuel.cs",
+              "DocumentMoniker": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Scripts\\Fuel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fuel.cs",
+              "ToolTip": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Scripts\\Fuel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fuel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:39:18.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlyMovement.cs",
+              "DocumentMoniker": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Scripts\\FlyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlyMovement.cs",
+              "ToolTip": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Scripts\\FlyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlyMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:15:12.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollisionHandler.cs",
+              "DocumentMoniker": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Scripts\\CollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionHandler.cs",
+              "ToolTip": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Scripts\\CollisionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollisionHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwD8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:44:59.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "D:\\Facultate anul 3\\SEM2\\DJC\\Laborator1\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:12:57.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

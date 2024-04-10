@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Lab 4 - Fly Level 2.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
