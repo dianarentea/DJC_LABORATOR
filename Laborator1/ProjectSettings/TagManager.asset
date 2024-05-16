@@ -10,6 +10,11 @@ TagManager:
   - Enemy
   - Fly
   - Fuel
+  - BoardManager
+  - BlackPiece
+  - WhitePiece
+  - Piece
+  - Field
   layers:
   - Default
   - TransparentFX

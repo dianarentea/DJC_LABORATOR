@@ -336,7 +336,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   blackPiecePrefab: {fileID: 1610987773}
   whitePiecePrefab: {fileID: 387522727}
-  piecesParent: {fileID: 0}
   squareSize: 1
   boardStart: {x: 0, y: 0, z: 0}
 --- !u!1 &387522727 stripped
@@ -370,7 +369,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7612246595738131134, guid: a0c1f0dfbf2a0c64a9c0629d4430d867, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.24000001
+      value: -0.102
       objectReference: {fileID: 0}
     - target: {fileID: 7612246595738131134, guid: a0c1f0dfbf2a0c64a9c0629d4430d867, type: 3}
       propertyPath: m_LocalPosition.z

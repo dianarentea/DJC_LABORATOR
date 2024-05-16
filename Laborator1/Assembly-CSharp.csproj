@@ -61,10 +61,10 @@
     <Analyzer Include="D:\Programs\2022.3.20f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BoardGenerator.cs" />
     <Compile Include="Assets\Scripts\CheckersBoard.cs" />
     <Compile Include="Assets\Scripts\CollisionHandler.cs" />
     <Compile Include="Assets\Scripts\FlyMovement.cs" />
-    <Compile Include="Assets\Scripts\Fuel.cs" />
     <Compile Include="Assets\Scripts\ObstacleOscillator.cs" />
     <Compile Include="Assets\Scripts\QuitGame.cs" />
     <Compile Include="Assets\Scripts\Scene3\EnemyCharacter.cs" />
